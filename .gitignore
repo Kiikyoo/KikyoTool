@@ -4,6 +4,7 @@
 # Compiled artifacts
 *.pdb
 *.exe
+!release/*.exe
 *.dll
 *.rlib
 *.rmeta
